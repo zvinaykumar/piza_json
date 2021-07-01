@@ -17,61 +17,6 @@
         "title":"PIZZA MANIA",
         "description":"Indulge into mouth-watering taste of Pizza mania range, perfect answer to all your food cravings",
         "image_url":"https://www.dominos.co.in/theme2/front/images/menu-images/my-pizzamania.png"
-    },
-    
-    {
-        "id":4,
-        "title":"Margherita",
-        "description":"A hugely popular margherita, with a deliciously tangy single cheese topping",
-        "image_url":"https://www.dominos.co.in/files/items/Margherit.jpg"
-    },
-    {
-        "id":5,
-        "title":"Double Cheese Margherita",
-        "description":"The ever-popular Margherita - loaded with extra cheese... oodies of it!",
-        "image_url":"https://www.dominos.co.in/files/items/Double_Cheese_Margherita.jpg"
-    },
-    {
-        "id":6,
-        "title":"Farm House",
-        "description":"A pizza that goes ballistic on veggies! Check out this mouth watering overload of crunchy, crisp capsicum, succulent mushrooms and fresh tomatoes",
-        "image_url":"https://www.dominos.co.in/files/items/Farmhouse.jpg"
-    },
-    {
-        "id":7,
-        "title":"PEPPER BARBECUE CHICKEN",
-        "description":"Pepper Barbecue Chicken I Cheese",
-        "image_url":"https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg"
-    },
-    {
-        "id":8,
-        "title":"CHICKEN SAUSAGE",
-        "description":"IChicken Sausage I Cheese",
-        "image_url":"https://www.dominos.co.in/files/items/Chicken_Sausage.jpg"
-    },
-    {
-        "id":9,
-        "title":"Chicken Golden Delight",
-        "description":"Mmm! Barbeque chicken with a topping of golden corn loaded with extra cheese. Worth its weight in gold!",
-        "image_url":"https://www.dominos.co.in/files/items/Chicken_Golden_Delight.jpg"
-    },
-    {
-        "id":10,
-        "title":"TOMATO",
-        "description":"Juicy tomato in a flavourful combination with cheese I tangy sauce",
-        "image_url":"https://www.dominos.co.in/files/items/pizza_mania_tomato.png"
-    },
-    {
-        "id":11,
-        "title":"VEG LOADED",
-        "description":"Tomato | Grilled Mushroom |Jalapeno |Golden Corn | Beans in a fresh pan crust",
-        "image_url":"https://www.dominos.co.in/files/items/PrimeLoadedL.jpg"
-    },
-    {
-        "id":12,
-        "title":"CHEESY",
-        "description":"Orange Cheddar Cheese I Mozzarella",
-        "image_url":"https://www.dominos.co.in/files/items/PrimeCheesyL.jpg"
     }
     
 ]
